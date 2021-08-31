@@ -1,0 +1,13 @@
+build-SBrowserCppWebEngine-qt5-Debug/
+repFile/
+sbrowser.pro
+sbrowser.pro.user
+ThirdpartyWindows/
+SbConfigurationSubSystem/
+SbErrorCodeSubSystem/
+SbMessageDefinitions/
+SbRpcSubSystem/
+SBrowserCppWebEngine/
+SBrowserDownloader/
+SBrowserLauncher/
+.project
